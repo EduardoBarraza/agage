@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Eduu\Downloads\Compressed\GuíaDeHotelesEnRoma\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Eduu\Downloads\Compressed\GuíaDeHotelesEnRoma\app\build\intermediates\pre-dexed\debug\classes-f40a33cf8dac7d8f8531303cc5f069cbadac4208.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eduu\Downloads\Compressed\GuíaDeHotelesEnRoma\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Eduu\Downloads\Compressed\GuíaDeHotelesEnRoma\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-ec72e72a0a1a2f78d3a414f19aebf606f030ad87.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eduu\Downloads\Compressed\GuíaDeHotelesEnRoma\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Eduu\Downloads\Compressed\GuíaDeHotelesEnRoma\app\build\intermediates\pre-dexed\debug\classes-523c65d540996b2f712e36f8ea73ced4c94bb868.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eduu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Eduu\Downloads\Compressed\GuíaDeHotelesEnRoma\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-1f272c9347c7063e3336198b074831ea2b9b7fc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eduu\Downloads\Compressed\GuíaDeHotelesEnRoma\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\Eduu\Downloads\Compressed\GuíaDeHotelesEnRoma\app\build\intermediates\pre-dexed\debug\classes-046738ed07efb7d1798208a65d30dfecb97bd289.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eduu\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\Eduu\Downloads\Compressed\GuíaDeHotelesEnRoma\app\build\intermediates\pre-dexed\debug\glide-3.6.1-4d806d1a99867d5b83f98ca9fbdc40e7ea3b0fa8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eduu\Downloads\Compressed\GuíaDeHotelesEnRoma\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\Eduu\Downloads\Compressed\GuíaDeHotelesEnRoma\app\build\intermediates\pre-dexed\debug\classes-457f31811d9d4a71bbdf5f9108c5833acb74c364.jar" />
+    </item>
+
+</items>
